@@ -1,0 +1,18 @@
+body{
+  
+}
+.main{
+  height: 100px;
+  width: 350px;
+  background: #a757ca;
+  color: black;
+  border: 3px solid #9cadd3;
+  text-align: center;
+}
+.ctd{
+  color: yellow;
+  background: #cdcdcd;
+  padding: 3px 8px;
+  border: 1px solid black;
+  border-radius: 15px;
+}

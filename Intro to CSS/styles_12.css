@@ -1,0 +1,9 @@
+.red-circle{
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  background: #1bda98;
+  
+  margin:  45px auto;
+
+}

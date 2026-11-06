@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+}
+.first{
+  background: #ff7506;
+  height: 100px;
+
+  
+}
+.second{
+  background: blue;
+  height: 100px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.third{
+  background: green;
+  height: 100px;
+}

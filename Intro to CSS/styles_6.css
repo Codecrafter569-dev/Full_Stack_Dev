@@ -1,0 +1,17 @@
+.item-hello{
+  display: flex;
+  justify-content: center;
+}
+.item{
+  color: #0079d6;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  background: #aa73d0b8;
+  font-weight: bold;
+}

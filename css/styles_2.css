@@ -1,0 +1,10 @@
+body{
+  text-align: center;
+  letter-spacing: 0px;
+  background: #b81515;
+  color: white;
+}
+h1{
+  font-size: 50px;
+  text-shadow: 0px 0px 5px black;
+}

@@ -1,0 +1,21 @@
+@font-face {
+    src: url("Corleone.ttf");
+    font-family: Corleone;
+}
+
+.main{
+  color: white;
+  background-image: url('universe.jpg');
+  background-size: cover;
+  text-align: center;
+  font-family: Corleone;
+}
+.btn-ok{
+  padding: 6px 20px;
+  background: white;
+  border: none;
+  font-family:inherit ;
+}
+span{
+  border-bottom: 4px solid white;
+}

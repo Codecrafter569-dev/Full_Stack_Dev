@@ -1,0 +1,46 @@
+
+.main{
+  margin-top: 100px;
+  text-align: center;
+}
+.btn-div{
+
+}
+.btn{
+  display: border;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #e4e4e4b8;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 16px;
+  padding-left: 16px;
+  
+  border-radius: 4px;
+  font-size: 14px;
+  
+}
+.input-search{
+  display: block;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  
+  height:24px ;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: 1px solid #b7b7b7b8;
+  border-radius: 24px;
+}
+.google-logo{
+
+  display: block;
+  width: 300px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
